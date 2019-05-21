@@ -80,7 +80,7 @@ namespace ContentCompare
                     style.Borders[BorderType.BottomBorder].LineStyle = CellBorderType.Thin;
                     style.Pattern = BackgroundType.Solid;
                     style.ForegroundColor = Color.Red;//设置背景颜色
-                    style.Font.Color = Color.Orange;//文本颜色
+                    style.Font.Color = Color.Black;//文本颜色
 
                     for (; row < cells.MaxDataRow + 1; row++)//遍历每行数据
                     {
