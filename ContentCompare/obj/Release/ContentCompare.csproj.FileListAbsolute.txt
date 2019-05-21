@@ -1,7 +1,7 @@
 D:\GitHub_Archive\ExcelContentCompare\ContentCompare\bin\Release\Aspose.Cells.dll
+D:\GitHub_Archive\ExcelContentCompare\ContentCompare\bin\Release\ContentCompare.exe.config
 D:\GitHub_Archive\ExcelContentCompare\ContentCompare\bin\Release\ContentCompare.exe
 D:\GitHub_Archive\ExcelContentCompare\ContentCompare\bin\Release\ContentCompare.pdb
-D:\GitHub_Archive\ExcelContentCompare\ContentCompare\obj\Release\ContentCompare.csprojAssemblyReference.cache
 D:\GitHub_Archive\ExcelContentCompare\ContentCompare\obj\Release\ContentCompare.BU.resources
 D:\GitHub_Archive\ExcelContentCompare\ContentCompare\obj\Release\ContentCompare.Properties.Resources.resources
 D:\GitHub_Archive\ExcelContentCompare\ContentCompare\obj\Release\ContentCompare.csproj.GenerateResource.cache
