@@ -8,7 +8,9 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading;
 using System.Windows.Forms;
-
+/// <summary>
+/// 功能说明，在副表中找出主表缺少的数据，并在副表中标记为红色
+/// </summary>
 namespace ContentCompare
 {
     public partial class BU : Form
@@ -65,7 +67,7 @@ namespace ContentCompare
                     Workbook workbook = new Workbook();
                     workbook.Open(this.textBox2.Text);
                     int col = 0;
-                    int row = 2;
+                    int row = 0;
                     Cells cells = null;
                     geCells(workbook, ref cells, ref col, ref row);
                     Style style = workbook.Styles[workbook.Styles.Add()];//新增样式
@@ -123,8 +125,8 @@ namespace ContentCompare
             workbook.Open(path);
             Cells cells = workbook.Worksheets[0].Cells;
 
-            int col = 0;//定义列，第一列开始遍历
-            int row = 1;//定义行，第二行开始遍历
+            int col = 0;//定义列起点
+            int row = 0;//定义行起点
             for (; col < cells.MaxDataColumn + 1; col++)//遍历列
             {
 
@@ -134,7 +136,7 @@ namespace ContentCompare
                     break;//定位至目标列
                 }
             }
-            row++;//
+            row++;//从第二行开始遍历
             List<string> list = new List<string>();//定义主表中姓名的容器
             for (; row < cells.MaxDataRow + 1; row++)//遍历每行数据
             {

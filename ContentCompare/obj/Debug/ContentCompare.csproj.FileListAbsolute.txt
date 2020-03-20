@@ -20,3 +20,14 @@ D:\GitHub_Archive\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.cs
 D:\GitHub_Archive\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.csproj.CopyComplete
 D:\GitHub_Archive\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.exe
 D:\GitHub_Archive\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.pdb
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Debug\Aspose.Cells.dll
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Debug\ContentCompare.exe.config
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Debug\ContentCompare.exe
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Debug\ContentCompare.pdb
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.csprojAssemblyReference.cache
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.BU.resources
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.Properties.Resources.resources
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.csproj.GenerateResource.cache
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.csproj.CopyComplete
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.exe
+D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.pdb
