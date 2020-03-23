@@ -13,7 +13,6 @@ D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Release\Aspose.
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Release\ContentCompare.exe.config
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Release\ContentCompare.exe
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Release\ContentCompare.pdb
-D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Release\ContentCompare.csprojAssemblyReference.cache
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Release\ContentCompare.BU.resources
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Release\ContentCompare.Properties.Resources.resources
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Release\ContentCompare.csproj.GenerateResource.cache

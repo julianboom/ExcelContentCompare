@@ -24,7 +24,6 @@ D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Debug\Aspose.Ce
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Debug\ContentCompare.exe.config
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Debug\ContentCompare.exe
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\bin\Debug\ContentCompare.pdb
-D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.csprojAssemblyReference.cache
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.BU.resources
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.Properties.Resources.resources
 D:\CodeRespository\GitHub\ExcelContentCompare\ContentCompare\obj\Debug\ContentCompare.csproj.GenerateResource.cache
